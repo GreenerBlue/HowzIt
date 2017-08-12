@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HowzIt</string>
+    <string name="listview">ListView</string>
+    <string name="musicplayer">MusicPlayer</string>
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+</resources>

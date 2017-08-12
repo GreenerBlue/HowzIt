@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/m_dir"
+        app:showAsAction="ifRoom|withText"
+        android:title="Director"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/m_lang"
+        app:showAsAction="ifRoom|withText"
+        android:title="Language"
+        android:visible="true"/>
+
+</menu>
